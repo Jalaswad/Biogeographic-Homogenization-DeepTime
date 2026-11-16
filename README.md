@@ -24,7 +24,7 @@ GENERAL INFORMATION
 1. Title of Datasets: Scotese_intervalT.csv
 
 
-2. Author Information: Anonymous
+2. Author Information: Jood Al Aswad, Mohamad Bazzi, Justin Penn, Pedro Monarrez, Curtis Deutsch and Jonathan Payne.
 
 3. Date of last time code was run: 2026-08-14
 
